@@ -19,6 +19,8 @@
   "homepage": "https://github.com/aditsrin/hello-world-javascript-action#readme",
   "dependencies": {
     "@actions/core": "^1.6.0",
-    "@actions/github": "^5.0.1"
+    "@actions/github": "^5.0.1",
+    "ronin-mocks": "^0.1.6",
+    "ronin-server": "^0.1.3"
   }
 }
